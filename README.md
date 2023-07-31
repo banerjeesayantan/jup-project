@@ -1,5 +1,3 @@
-# jup-project
-School result project
 #pip install numpy
 #pip install pandas
 #pip install matplotlib
